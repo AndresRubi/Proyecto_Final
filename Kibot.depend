@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1425615524 source:/home/arubi/Documents/CodeBlocks/Kibot/main.cpp
+	<iostream>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+	"cmain.h"
+
+1425578913 /home/arubi/Documents/CodeBlocks/Kibot/stdafx.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+
+1425614687 source:/home/arubi/Documents/CodeBlocks/Kibot/cmain.cpp
+	"cmain.h"
+
+1425615559 /home/arubi/Documents/CodeBlocks/Kibot/cmain.h
+	"sdl_setup.h"
+	"csprite.h"
+	<iostream>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+
+1425615798 /home/arubi/Documents/CodeBlocks/Kibot/sdl_setup.h
+	<iostream>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+
+1425614749 source:/home/arubi/Documents/CodeBlocks/Kibot/csprite.cpp
+	"csprite.h"
+
+1425614586 /home/arubi/Documents/CodeBlocks/Kibot/csprite.h
+	<iostream>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+
+1425610115 source:/home/arubi/Documents/CodeBlocks/Kibot/sdl_setup.cpp
+	"sdl_setup.h"
+
